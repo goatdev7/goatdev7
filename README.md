@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 - **Frameworks & Libraries:** Django, Node, Apollo GraphQL, Next, React, jQuery
 
 ## Connect with Me 🌐
-- [GitHub](https://github.com/goatdev7)
-- [Twitter](https://twitter.com/ullah_isaac)
-- [LinkedIn](https://www.linkedin.com/in/isaac-opher-ullah-73b686172)
+[GitHub](https://github.com/goatdev7) | [Twitter](https://twitter.com/ullah_isaac) | [LinkedIn](https://www.linkedin.com/in/isaac-opher-ullah-73b686172) | [LeetCode](https://leetcode.com/u/isaacopher/)
 
 
 
