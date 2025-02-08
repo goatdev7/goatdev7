@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me 👨‍💻
-🪄I am a computer science graduate with a passion for building web applications. 
-😃I enjoy working on projects that blend creative frontend designs with reliable backend services. 
-🤝Collaboration and learning are part of my journey to develop projects that stand out.
-📫Reach out to me: isaacopher@gmail.com
+- 🪄I am a computer science graduate with a passion for building web applications.
+- 😃I enjoy working on projects that blend creative frontend designs with reliable backend services.
+- 🤝Collaboration and learning are part of my journey to develop projects that stand out.
+- 📫Reach out to me: isaacopher@gmail.com
 
 ## Tech Stack 🚀
 - **Programming:** Python, TypeScript, JavaScript, GraphQL, SQL
